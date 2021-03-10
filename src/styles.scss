@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  &__orange {
+    background-color: orange;
+  }
+  &__green {
+    background-color: green;
+  }
+}
